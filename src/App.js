@@ -36,7 +36,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1 style={{ color: "white" }}>Emoticon Interpreter</h1>
+      <h1 style={{ color: "white" }}>Emoticon Interpreter </h1>
       <input placeholder={"Enter Emoji"} onChange={inputChangeHandler}></input>
       <div
         className="Output"
