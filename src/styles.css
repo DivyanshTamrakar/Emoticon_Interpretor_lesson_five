@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  margin-top: 5rem;
+  box-shadow: 10px 10px 50px 1px grey;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+body {
+  background-color: yellow;
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1503117388374-af436bb2be2c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=366&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+input {
+  width: 40%;
+  height: 8vh;
+}
+.Head {
+  border: 3px solid black;
+  padding: 1rem;
+  margin: auto;
+  text-align: center;
+  width: 40%;
+}
+.Output {
+  width: 20%;
+  margin: auto;
+  border: 1px solid;
+  padding: 5px;
+  box-shadow: 5px 10px grey;
+}
